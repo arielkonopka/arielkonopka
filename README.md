@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arielkonopka
 - 👀 I’m interested in some programming. I haven't been coding for over a decade.
-- 🌱 I’m currently learning C++20, aa lot has changed in the language, for the better. I really like it.
+- 🌱 I’m currently learning C++20, a lot has changed in the language, for the better. I really like it.
 - 📫 How to reach me ariel.konopka@outlook.com
 
 <!---
